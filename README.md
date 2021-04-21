@@ -15,7 +15,7 @@ Growing up, I was very curious how things worked. If there was a topic where I w
 
 ## 💻 Applications!
 ### [AnimeSearch](https://andy-duenas.github.io/Anime-Search/) 
-![image](https://user-images.githubusercontent.com/54919527/115634646-e5ee0780-a2be-11eb-8bb0-e02f92b6669e.png)
+![image](https://user-images.githubusercontent.com/54919527/115634723-01591280-a2bf-11eb-8353-7e5729aa3e7b.png)
 
 ##### [Source Code](https://github.com/Andy-Duenas/Anime-Search)
 
