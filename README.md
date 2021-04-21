@@ -15,12 +15,9 @@ Growing up, I was very curious how things worked. If there was a topic where I w
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
 ## 💻 Applications!
-[![satoru_happy](https://emoji.gg/assets/emoji/1213-satoru-happy.png)](https://emoji.gg/emoji/1213-satoru-happy)
-
 ### [AnimeSearch](https://andy-duenas.github.io/ajax-project/) 
 ##### [Source Code](https://github.com/Andy-Duenas/Anime-Search)
 
-[![PressFinchatRGB](https://emoji.gg/assets/emoji/8942_PressFinchatRGB.gif)](https://emoji.gg/emoji/8942_PressFinchatRGB)
 ### [Looking For Gamers](https://looking-for-gamers.herokuapp.com/#search)
 ##### [Source Code](https://github.com/Andy-Duenas/Looking-For-Gamers)
 
