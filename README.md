@@ -24,4 +24,3 @@ Growing up, I was very curious how things worked. If there was a topic where I w
 ## ⚡️ Contact Me
 * LinkedIn: [Andy-Duenas](https://www.linkedin.com/in/andy-duenas/)
 * Email: Duenas.g.andy@gmail.com
-* Resume: 
