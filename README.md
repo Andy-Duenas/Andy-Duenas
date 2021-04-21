@@ -14,7 +14,7 @@ Growing up, I was very curious how things worked. If there was a topic where I w
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ## 💻 Applications!
-### [AnimeSearch](https://andy-duenas.github.io/ajax-project/) 
+### [AnimeSearch](https://andy-duenas.github.io/Anime-Search/) 
 
 
 ##### [Source Code](https://github.com/Andy-Duenas/Anime-Search)
