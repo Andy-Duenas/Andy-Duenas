@@ -30,3 +30,4 @@ Growing up, I was very curious how things worked. If there was a topic where I w
 <a href="mailto:duenas.g.andy@gmail.com/">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://drive.google.com/file/d/1QeG55hUbYBy_JVpg8Ej04buQljKvY2pS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
