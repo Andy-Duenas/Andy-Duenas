@@ -23,7 +23,6 @@ Growing up, I was very curious how things worked. If there was a topic where I w
 ##### [Source Code](https://github.com/Andy-Duenas/Looking-For-Gamers) 
 
 ## ⚡️ Contact Me
-* Email: Duenas.g.andy@gmail.com
 <a href="https://www.linkedin.com/in/andy-duenas/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
