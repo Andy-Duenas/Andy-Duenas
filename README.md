@@ -27,4 +27,6 @@ Growing up, I was very curious how things worked. If there was a topic where I w
 <a href="https://www.linkedin.com/in/andy-duenas/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<a href="mailto:duenas.g.andy@gmail.com/">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
