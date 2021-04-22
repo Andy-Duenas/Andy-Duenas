@@ -14,9 +14,13 @@ Growing up, I was very curious how things worked. If there was a topic where I w
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ## 💻 Applications!
-### [AnimeSearch](https://andy-duenas.github.io/Anime-Search/)  [Looking For Gamers](https://looking-for-gamers.herokuapp.com/#search)
-![image](https://user-images.githubusercontent.com/54919527/115634723-01591280-a2bf-11eb-8353-7e5729aa3e7b.png) ![image](https://user-images.githubusercontent.com/54919527/115634331-429cf280-a2be-11eb-8b05-05a8eef02408.png)
-##### [Source Code](https://github.com/Andy-Duenas/Anime-Search)[Source Code](https://github.com/Andy-Duenas/Looking-For-Gamers)
+### [AnimeSearch](https://andy-duenas.github.io/Anime-Search/)  
+![image](https://user-images.githubusercontent.com/54919527/115634723-01591280-a2bf-11eb-8353-7e5729aa3e7b.png) 
+##### [Source Code](https://github.com/Andy-Duenas/Anime-Search)
+
+### [Looking For Gamers](https://looking-for-gamers.herokuapp.com/#search)
+![image](https://user-images.githubusercontent.com/54919527/115634331-429cf280-a2be-11eb-8b05-05a8eef02408.png)
+##### [Source Code](https://github.com/Andy-Duenas/Looking-For-Gamers) 
 
 ## ⚡️ Contact Me
 * LinkedIn: [Andy-Duenas](https://www.linkedin.com/in/andy-duenas/)
