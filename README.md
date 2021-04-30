@@ -2,7 +2,7 @@
 **Andy-Duenas/Andy-Duenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## :man_technologist:	About Me
-Growing up, I was very curious how things worked. If there was a topic where I wanted to learn more, I would spend hours doing research on my own. When I was first introduced to programming, I couldn't fathom the amount of possibilities one can do. I was doing my research on the different languages and technologies until Web development caught my eye. My passion for Web developement came from the ability to create what I can imagine and the endless possibilities of creating web applications to help improve everyday life.
+Growing up, I was very curious how things worked. If there was a topic where I wanted to learn more, I would spend hours doing research on my own. When I was first introduced to programming, I couldn't fathom the amount of possibilities one can do. I was doing my research on the different languages and technologies until Web development caught my eye. My passion for Web development came from the ability to create what I can imagine and the endless possibilities of creating web applications to help improve everyday life.
 
 ## 📖 Skills 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
